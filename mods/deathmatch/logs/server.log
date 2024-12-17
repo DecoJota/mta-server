@@ -1,0 +1,28 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..este/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2024-12-17 09:37:55] File 'settings.xml' not present, creating new node.
+[2024-12-17 09:37:59] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2024-12-17 09:38:00] Resources: 198 loaded, 0 failed
+[2024-12-17 09:38:00] Starting resources...
+[2024-12-17 09:38:00] Admin access list successfully updated 
+[2024-12-17 09:38:00] INFO: Admin added 570 missing rights
+[2024-12-17 09:38:00] Server minclientversion is now 1.5.9-9.20957.0
+[2024-12-17 09:38:00] Server minclientversion is now 1.6.0-9.22676
+[2024-12-17 09:38:00] Gamemode 'play' started.
+[2024-12-17 09:38:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2024-12-17 09:38:00] WARNING: <owner_email_address> not set
+[2024-12-17 09:38:00] Server started and is ready to accept connections!
+[2024-12-17 09:38:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2024-12-17 09:38:00] Type 'help' for a list of commands.
+[2024-12-17 09:38:01] Querying MTA master server... success! (Auto detected IP:177.93.150.61)
